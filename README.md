@@ -49,6 +49,13 @@ Based on the findings, actionable recommendations are proposed to improve custom
 # [📊 View Insights & Recommendations (PDF)](Key_Analytical_Insights_from_Data.pdf)
 
 
+# 📫 Reach out to me: roniitroyy@gmail.com
+
+# 🔗 Connect with Me
+LinkedIn
+GitHub
+
+
 
 
 

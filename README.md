@@ -51,9 +51,6 @@ Based on the findings, actionable recommendations are proposed to improve custom
 
 # 📫 Reach out to me: roniitroyy@gmail.com
 
-# 🔗 Connect with Me
-LinkedIn
-GitHub
 
 
 

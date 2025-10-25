@@ -33,7 +33,7 @@ Language: SQL (specifically MySQL syntax for functions like DATE_FORMAT, ROUND, 
 The analysis is broken down into 13 key queries, each answering a specific business question.
 
 <img src="Summarized_tables_images/Screenshot 2025-10-25 200004.png" alt="Alt Text" width="500" height="300"/>
-churn_analysis.sql
+##churn_analysis.sql
 # Contains the complete, commented SQL scripts for all 13 queries.
 
 # 🔗 Dataset Link

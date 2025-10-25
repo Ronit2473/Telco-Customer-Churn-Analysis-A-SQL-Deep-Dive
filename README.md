@@ -37,8 +37,7 @@ The analysis is broken down into 13 key queries, each answering a specific busin
 # [View SQL File](churn_analysis.sql) 
 # Contains the complete, commented SQL scripts for all 13 queries.
 
-# 🔗 Dataset Link
-[https://www.kaggle.com/datasets/blastchar/telco-customer-churn]
+# 🔗 Dataset Link[https://www.kaggle.com/datasets/blastchar/telco-customer-churn]
 
 # 📄 Insights & Recommendations Summary
 

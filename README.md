@@ -17,7 +17,7 @@ Language: SQL (specifically MySQL syntax for functions like DATE_FORMAT, ROUND, 
 
 # 📊 Key Findings & Business Insights
  The analysis identified stark differences in churn behavior, pointing to critical areas for immediate intervention:
-<img src="C:\Users\abc\Pictures\Screenshots\Screenshot 2025-10-25 195524.png" alt="Alt Text" width="500" height="300"/>
+<img src="Summarized_tables_images/Screenshot 2025-10-25 195524.png" alt="Alt Text" width="500" height="300"/>
 
 # 💡 Strategic Recommendations
 Based on the SQL analysis, the following actions are recommended to reduce customer churn:

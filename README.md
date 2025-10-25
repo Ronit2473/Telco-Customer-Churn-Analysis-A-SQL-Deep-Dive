@@ -1,7 +1,7 @@
-# Telco-Customer-Churn-Analysis-A-SQL-Deep-Dive
+# 📞 Telco Customer Churn Analysis: A SQL Deep Dive
 
 # 🎯 Project Goal
-## The primary objective of this project is to analyze a comprehensive telecommunications dataset using SQL to identify the key drivers of customer churn. By segmenting customers and calculating churn rates across      various dimensions (contract type, services, tenure, and charges), the analysis provides actionable insights and a prioritized list of at-risk customers for retention efforts.
+ The primary objective of this project is to analyze a comprehensive telecommunications dataset using SQL to identify the key drivers of customer churn. By segmenting customers and calculating churn rates across   various dimensions (contract type, services, tenure, and charges), the analysis provides actionable insights and a prioritized list of at-risk customers for retention efforts.
 
 # 💾 Dataset Overview
 Source: This analysis uses the well-known IBM Telco Customer Churn Dataset, commonly found on platforms like Kaggle.
@@ -16,11 +16,11 @@ Database: MySQL (or any SQL-compliant database system)
 Language: SQL (specifically MySQL syntax for functions like DATE_FORMAT, ROUND, and CASE)
 
 # 📊 Key Findings & Business Insights
-## The analysis identified stark differences in churn behavior, pointing to critical areas for immediate intervention:
+ The analysis identified stark differences in churn behavior, pointing to critical areas for immediate intervention:
 <img src="C:\Users\abc\Pictures\Screenshots\Screenshot 2025-10-25 195524.png" alt="Alt Text" width="500" height="300"/>
 
 # 💡 Strategic Recommendations
-# Based on the SQL analysis, the following actions are recommended to reduce customer churn:
+Based on the SQL analysis, the following actions are recommended to reduce customer churn:
 
 # 1. Contract Conversion & Onboarding: Focus retention budget on moving Month-to-month customers to longer contracts, especially during the first year of their service. Offer incentives like free Tech Support to new customers to increase their service count and "stickiness."
 

@@ -46,7 +46,7 @@ This report provides a comprehensive analysis of customer churn patterns using S
 
 Based on the findings, actionable recommendations are proposed to improve customer retention — including personalized engagement strategies, early churn risk detection, and loyalty-driven initiatives. The insights aim to support data-informed decision-making and enhance overall customer lifetime value.
 
-📊 View Full Insights & Recommendations (PDF)
+# 📊 View Full Insights & Recommendations (Key_Analytical_Insights_from_Data.pdf)
 
 
 

@@ -40,6 +40,14 @@ The analysis is broken down into 13 key queries, each answering a specific busin
 # 🔗 Dataset Link
 [https://www.kaggle.com/datasets/blastchar/telco-customer-churn]
 
+# 📄 Insights & Recommendations Summary
+
+This report provides a comprehensive analysis of customer churn patterns using SQL-based exploration and data visualization techniques. It highlights key factors contributing to customer attrition, such as tenure, activity frequency, and product engagement levels.
+
+Based on the findings, actionable recommendations are proposed to improve customer retention — including personalized engagement strategies, early churn risk detection, and loyalty-driven initiatives. The insights aim to support data-informed decision-making and enhance overall customer lifetime value.
+
+📊 View Full Insights & Recommendations (PDF)
+
 
 
 
